@@ -1,4 +1,6 @@
-### Hi there 👋
+Sophia Prieto de Carvalho - 2B   ROBOTICA
+![]()![GIF](https://github.com/sophiaprieto25/sophiaprieto25/assets/170126878/5f721c31-5f33-4e2f-975d-f956fd7111cd)
+
 
 <!--
 **sophiaprieto25/sophiaprieto25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
